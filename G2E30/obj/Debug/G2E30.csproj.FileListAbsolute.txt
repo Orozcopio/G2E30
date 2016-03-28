@@ -1,0 +1,6 @@
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E30\G2E30\bin\Debug\G2E30.exe.config
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E30\G2E30\obj\Debug\G2E30.csprojResolveAssemblyReference.cache
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E30\G2E30\bin\Debug\G2E30.exe
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E30\G2E30\bin\Debug\G2E30.pdb
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E30\G2E30\obj\Debug\G2E30.exe
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E30\G2E30\obj\Debug\G2E30.pdb
